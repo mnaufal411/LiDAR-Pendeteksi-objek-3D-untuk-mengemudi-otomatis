@@ -1,4 +1,4 @@
-# LiDAR-Pendeteksi-objek-3D-untuk-mengemudi-otomatis
+# Pseudo-LiDAR-Pendeteksi-objek-3D-untuk-mengemudi-otomatis
 
 LiDAR merupakan suatu teknologi sensor dalam melakukan pemetaan, pemantauan, serta survei lingkungan atau topografi.
 LiDAR merupakan singkatan dari "Light Detection and Raging".
